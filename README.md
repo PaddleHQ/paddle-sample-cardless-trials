@@ -1,10 +1,10 @@
 # Paddle Billing cardless trials sample
 
-[Paddle Billing](https://www.paddle.com/billing?utm_source=dx&utm_medium=paddle-sample-cardless-trials) is the developer-first merchant of record. We take care of payments, tax, subscriptions, and metrics with one unified API that does it all.
+[Paddle Billing](https://developer.paddle.com/?utm_source=dx&utm_medium=paddle-sample-cardless-trials) is the developer-first merchant of record, designed for modern SaaS, AI, mobile app, and digital product businesses. We take care of payments, tax, subscriptions, and metrics with one unified API that does it all.
 
 This is a sample implementation of cardless trials with Paddle Billing and [Next.js](https://nextjs.org/). It's designed to help you understand cardless trials and implement them in your own app quickly.
 
-> **Important:** This sample works with Paddle Billing. It does not support Paddle Classic. To work with Paddle Classic, see: [Paddle Classic API reference](https://developer.paddle.com/classic/api-reference/1384a288aca7a-api-reference?utm_source=dx&utm_medium=paddle-sample-cardless-trials)
+> **Important:** This sample works with Paddle Billing. It does not support Paddle Classic. To work with Paddle Classic, see: [Paddle Classic dev docs](https://classic.paddle.com/?utm_source=dx&utm_medium=paddle-sample-cardless-trials)
 
 ## Features
 
